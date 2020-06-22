@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Look4Sat. Amateur radio and weather satellite tracker and passes predictor for Android.
+  ~ Copyright (C) 2019, 2020 Arty Bishop (bishop.arty@gmail.com)
+  ~
+  ~ This program is free software; you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation; either version 2 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along
+  ~ with this program; if not, write to the Free Software Foundation, Inc.,
+  ~ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+  -->
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_pass_list">
+
+    <fragment
+        android:id="@+id/nav_pass_list"
+        android:name="com.rtbishop.look4sat.ui.fragments.PassListFragment"
+        android:label="@string/menu_pass_list"
+        tools:layout="@layout/fragment_pass_list">
+        <action
+            android:id="@+id/action_pass_to_polar"
+            app:destination="@id/nav_polar_view"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_enter_anim"
+            app:popExitAnim="@anim/nav_default_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_polar_view"
+        android:name="com.rtbishop.look4sat.ui.fragments.PolarViewFragment"
+        android:label="@string/menu_polar_view"
+        tools:layout="@layout/fragment_polar_view">
+        <argument
+            android:name="satPassIndex"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_map_view"
+        android:name="com.rtbishop.look4sat.ui.fragments.MapViewFragment"
+        android:label="@string/menu_map_view"
+        tools:layout="@layout/fragment_map_view" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.rtbishop.look4sat.ui.fragments.PreferencesFragment"
+        android:label="@string/menu_settings" />
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.rtbishop.look4sat.ui.fragments.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
+
+</navigation>

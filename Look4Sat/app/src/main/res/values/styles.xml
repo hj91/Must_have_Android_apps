@@ -1,0 +1,158 @@
+<!--
+  ~ Look4Sat. Amateur radio and weather satellite tracker and passes predictor for Android.
+  ~ Copyright (C) 2019, 2020 Arty Bishop (bishop.arty@gmail.com)
+  ~
+  ~ This program is free software; you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation; either version 2 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along
+  ~ with this program; if not, write to the Free Software Foundation, Inc.,
+  ~ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+  -->
+
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents">
+        <item name="colorPrimary">@color/themeAccent</item>
+        <item name="colorSecondary">@color/themeAccent</item>
+        <item name="colorSurface">@color/backgroundDark</item>
+
+        <item name="colorOnPrimary">@color/backgroundDark</item>
+        <item name="colorOnSecondary">@color/backgroundDark</item>
+        <item name="colorOnSurface">@color/themeLight</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.Splash" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash_drawable</item>
+    </style>
+
+    <style name="DrawerHeader">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeLight</item>
+    </style>
+
+    <style name="DrawerHeader.Title">
+        <item name="android:textSize">42sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DrawerHeader.Item">
+        <item name="android:textSize">21sp</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+
+    <style name="DrawerHeader.ItemValue">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DrawerHeader.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:textColor">@color/themeAccent</item>
+        <item name="android:backgroundTint">@color/themeButton</item>
+    </style>
+
+    <style name="ToolbarText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/themeAccent</item>
+    </style>
+
+    <style name="ToolbarButton">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:src">@drawable/ic_filter</item>
+        <item name="android:backgroundTint">@color/themeDark</item>
+    </style>
+
+    <style name="CardPassText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="CardPassName">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/themeAccent</item>
+    </style>
+
+    <style name="PolarViewText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeLight</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="CardTransText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeLight</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="PassInfoText">
+        <item name="android:textColor">@color/themeLight</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="MapText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeAccent</item>
+        <item name="android:background">@drawable/bg_round_borders</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingStart">6dp</item>
+        <item name="android:paddingEnd">6dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style>
+
+    <style name="DialogText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeAccent</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="AboutTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeAccent</item>
+        <item name="android:textSize">42sp</item>
+    </style>
+
+    <style name="AboutSubtitle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/themeLight</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AboutRegular">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/themeLight</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
