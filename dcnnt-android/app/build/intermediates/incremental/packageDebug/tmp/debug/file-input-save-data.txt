@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Jun 23 14:17:17 IST 2020
+1.base=/home/harshad/StudioProjects/dcnnt-android/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/harshad/StudioProjects/dcnnt-android/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+1.path=classes.dex

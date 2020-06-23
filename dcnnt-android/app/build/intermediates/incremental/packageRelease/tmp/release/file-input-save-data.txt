@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 23 14:21:41 IST 2020
+0.baseType=DIRECTORY
+0.base=/home/harshad/StudioProjects/dcnnt-android/app/build/intermediates/transforms/r8/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

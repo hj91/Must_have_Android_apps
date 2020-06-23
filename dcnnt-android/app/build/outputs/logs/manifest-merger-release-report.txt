@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.google.android.material:material:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/98f490f5c6ccf7401175f6865cfd940e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1e63440b6c496d68949db17665fb54ea/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c930aa7e02b6da1a970cd413d37f9ba4/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/harshad/.gradle/caches/transforms-2/files-2.1/a939527f280006ad6e26084683bb4fec/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/21856eb0b7f5e3788e2b336537366a52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/6eb70232e8d14aef1ccf8f5f0b5056e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/abf0b2670c7eba748e986d7c8d7b41bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1f137a48d761dfc913a947ad519843bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c0fbf807648f4365e89dc1d7a0f0452a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ff6d68893f1971337597e84ae99572c8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5d8bbe24dfe1f5fad7bea789a7afe46d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/bcc912189e141fea0d84a346e594be24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5da2389079bc9df3ed0bd788c3dc29bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/06b29756285c27ded3972accc1643f28/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cabed9c0f08cc1c0fcf0dd6727b7c5d8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ce0720e760f64096e5140612927a746e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9c19fecd8620ebf2aa59cb6f4f68f1ab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/2c7e4dfde8228219c4ef42fca4bc7711/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/0a1d51395c050d517bf02bea7e6daa81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5275cd0a93937532247f00526b48809d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/3d6e1305eebececdaf5d46286e6e2879/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/701ab56e9a14a526df2477e2bfc5d617/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/27401063018cee5cb30562cd1b87c39f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1693ba95a22cd88a6bcd206edd2b1d6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/89a68729bab54131dd756bafd2530e99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5bedb10daa51e32b8fcd0a97d67b47d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/79d97f061274a00a376dc1d91e556b39/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cb550a372e933373819b30a58e3b7990/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/a31d096b4fd85351f3ac88371d824519/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/e764036a1a042d8c30b22f26f27fb46c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/94066280163b5660df32c1ac48671a87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5cf94a2071030181f1e37966c5182eb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/b6e0144df30d1c61f2a10dc235e4941e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/39051b762ad58fe8eefa53d5ca4744e1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c9e0ef5c4ea0a5d63e4e4312f36b6e16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cf451a68fbbb22d3051fcc3dfbc30aa5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9f5ac9a950699e54654439a5f935d61b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:3:11-30
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:8:5-85
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:8:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:10:22-90
+application
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:12:5-58:19
+MERGED from [com.google.android.material:material:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/98f490f5c6ccf7401175f6865cfd940e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/98f490f5c6ccf7401175f6865cfd940e/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/harshad/.gradle/caches/transforms-2/files-2.1/a939527f280006ad6e26084683bb4fec/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/harshad/.gradle/caches/transforms-2/files-2.1/a939527f280006ad6e26084683bb4fec/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/79d97f061274a00a376dc1d91e556b39/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/79d97f061274a00a376dc1d91e556b39/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:18:13-39
+	android:label
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:16:13-45
+	android:roundIcon
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:17:13-51
+	android:icon
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:15:13-46
+	android:allowBackup
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:14:13-40
+	android:theme
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:13:13-46
+provider#androidx.core.content.FileProvider
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:grantUriPermissions
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:24:17-51
+	android:authorities
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:22:17-48
+	android:exported
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:23:17-41
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:21:17-66
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:25:13-27:58
+	android:resource
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:27:21-55
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:26:21-71
+activity#net.dcnnt.MainActivity
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:29:9-50:20
+	android:label
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:31:17-60
+	android:theme
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:32:17-51
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:30:17-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:35:27-74
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:37:13-39:29
+action#android.intent.action.VIEW
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:38:25-66
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:40:13-44:29
+	android:icon
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:40:28-68
+action#android.intent.action.SEND
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:42:27-73
+data
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:43:17-47
+	android:mimeType
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:43:23-45
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:45:13-49:29
+	android:icon
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:45:28-68
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:46:17-78
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:46:25-75
+service#net.dcnnt.DCNotificationListenerService
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:51:9-57:19
+	android:label
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:52:18-42
+	android:permission
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:53:18-92
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:51:18-72
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:54:13-56:29
+action#android.service.notification.NotificationListenerService
+ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:55:17-99
+	android:name
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml:55:25-96
+uses-sdk
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/98f490f5c6ccf7401175f6865cfd940e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/98f490f5c6ccf7401175f6865cfd940e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1e63440b6c496d68949db17665fb54ea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1e63440b6c496d68949db17665fb54ea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c930aa7e02b6da1a970cd413d37f9ba4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c930aa7e02b6da1a970cd413d37f9ba4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/harshad/.gradle/caches/transforms-2/files-2.1/a939527f280006ad6e26084683bb4fec/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/harshad/.gradle/caches/transforms-2/files-2.1/a939527f280006ad6e26084683bb4fec/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/21856eb0b7f5e3788e2b336537366a52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/21856eb0b7f5e3788e2b336537366a52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/6eb70232e8d14aef1ccf8f5f0b5056e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/6eb70232e8d14aef1ccf8f5f0b5056e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/abf0b2670c7eba748e986d7c8d7b41bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/abf0b2670c7eba748e986d7c8d7b41bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1f137a48d761dfc913a947ad519843bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1f137a48d761dfc913a947ad519843bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c0fbf807648f4365e89dc1d7a0f0452a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c0fbf807648f4365e89dc1d7a0f0452a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ff6d68893f1971337597e84ae99572c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ff6d68893f1971337597e84ae99572c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5d8bbe24dfe1f5fad7bea789a7afe46d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5d8bbe24dfe1f5fad7bea789a7afe46d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/bcc912189e141fea0d84a346e594be24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/bcc912189e141fea0d84a346e594be24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5da2389079bc9df3ed0bd788c3dc29bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5da2389079bc9df3ed0bd788c3dc29bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/06b29756285c27ded3972accc1643f28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/06b29756285c27ded3972accc1643f28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cabed9c0f08cc1c0fcf0dd6727b7c5d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cabed9c0f08cc1c0fcf0dd6727b7c5d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ce0720e760f64096e5140612927a746e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/ce0720e760f64096e5140612927a746e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9c19fecd8620ebf2aa59cb6f4f68f1ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9c19fecd8620ebf2aa59cb6f4f68f1ab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/2c7e4dfde8228219c4ef42fca4bc7711/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/2c7e4dfde8228219c4ef42fca4bc7711/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/0a1d51395c050d517bf02bea7e6daa81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/0a1d51395c050d517bf02bea7e6daa81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5275cd0a93937532247f00526b48809d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5275cd0a93937532247f00526b48809d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/3d6e1305eebececdaf5d46286e6e2879/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/3d6e1305eebececdaf5d46286e6e2879/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/701ab56e9a14a526df2477e2bfc5d617/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/701ab56e9a14a526df2477e2bfc5d617/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/27401063018cee5cb30562cd1b87c39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/27401063018cee5cb30562cd1b87c39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1693ba95a22cd88a6bcd206edd2b1d6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/1693ba95a22cd88a6bcd206edd2b1d6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/89a68729bab54131dd756bafd2530e99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/89a68729bab54131dd756bafd2530e99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9e52ad61ae76233ecd867c5368c7ccf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5bedb10daa51e32b8fcd0a97d67b47d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5bedb10daa51e32b8fcd0a97d67b47d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/79d97f061274a00a376dc1d91e556b39/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/79d97f061274a00a376dc1d91e556b39/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cb550a372e933373819b30a58e3b7990/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cb550a372e933373819b30a58e3b7990/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/a31d096b4fd85351f3ac88371d824519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/a31d096b4fd85351f3ac88371d824519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/e764036a1a042d8c30b22f26f27fb46c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/e764036a1a042d8c30b22f26f27fb46c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/94066280163b5660df32c1ac48671a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/94066280163b5660df32c1ac48671a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5cf94a2071030181f1e37966c5182eb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/5cf94a2071030181f1e37966c5182eb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/b6e0144df30d1c61f2a10dc235e4941e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/b6e0144df30d1c61f2a10dc235e4941e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/39051b762ad58fe8eefa53d5ca4744e1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/39051b762ad58fe8eefa53d5ca4744e1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c9e0ef5c4ea0a5d63e4e4312f36b6e16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/c9e0ef5c4ea0a5d63e4e4312f36b6e16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cf451a68fbbb22d3051fcc3dfbc30aa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/cf451a68fbbb22d3051fcc3dfbc30aa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9f5ac9a950699e54654439a5f935d61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harshad/.gradle/caches/transforms-2/files-2.1/9f5ac9a950699e54654439a5f935d61b/AndroidManifest.xml:20:5-44
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harshad/StudioProjects/dcnnt-android/app/src/main/AndroidManifest.xml
